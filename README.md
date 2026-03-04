@@ -5,15 +5,15 @@
 
 ---
 
-# 📘 Bahmni Docker RTL – Installation & Database Restoration Guide
+# 📘 Bahmni Docker (Arabic) – Installation & Database Restoration Guide
 
-This guide describes the step-by-step procedure to install **Bahmni (RTL version)** using **Docker** on **Ubuntu**, verify services, and perform required **post-installation database fixes** for **OpenMRS, OpenELIS, and Odoo**.
+This guide describes the step-by-step procedure to install **Bahmni (Arabic version)** using **Docker** on **Ubuntu**, verify services, and perform required **post-installation database fixes** for **OpenMRS, OpenELIS, and Odoo**.
 
 ---
 
 ## 🎥 Installation Video
 
-To watch a video that walks through installing Bahmni (RTL version) using Docker on Ubuntu, please visit the following link:
+To watch a video that walks through installing Bahmni (Arabic version) using Docker on Ubuntu, please visit the following link:
 
 [Installation video link](https://drive.google.com/file/d/1raZ1SlHzV_emJDp_kc0ZMTaxsVR2JTbe/view?usp=sharing)
 
