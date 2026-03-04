@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://zdoc.app/en/RAEng-FoD-Bahmni-project/bahmni-docker-RTL">English</a> |
+  <a href="#top">العربية</a>
+</div>
+
+<a name="top"></a>
 <div dir="rtl" align="right">
 
 # 📘 باهمني دوكر RTL – دليل التثبيت واستعادة قاعدة البيانات
