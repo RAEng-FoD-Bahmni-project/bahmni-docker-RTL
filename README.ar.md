@@ -16,7 +16,7 @@
 
 لمشاهدة فيديو يشرح خطوات تثبيت Bahmni (إصدار RTL) باستخدام Docker على أوبونتو، يرجى الضغط على الرابط التالي:
 
-[فيديو تثبيت باهمني RTL](https://drive.google.com/file/d/1raZ1SlHzV_emJDp_kc0ZMTaxsVR2JTbe/view?usp=sharing)
+[فيديو تثبيت نظام البهمني باللغة العربية](https://drive.google.com/file/d/1raZ1SlHzV_emJDp_kc0ZMTaxsVR2JTbe/view?usp=sharing)
 
 ---
 
