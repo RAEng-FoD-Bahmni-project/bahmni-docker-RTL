@@ -11,6 +11,15 @@ This guide describes the step-by-step procedure to install **Bahmni (RTL version
 
 ---
 
+## 🎥 Installation Video
+
+To watch a video that walks through installing Bahmni (RTL version) using Docker on Ubuntu, please visit the following link:
+
+[Installation video link](https://drive.google.com/file/d/1raZ1SlHzV_emJDp_kc0ZMTaxsVR2JTbe/view?usp=sharing)
+
+
+---
+
 ## 📋 1. Prerequisites
 
 Ensure the following are available on the server.
