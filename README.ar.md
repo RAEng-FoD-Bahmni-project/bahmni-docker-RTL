@@ -22,7 +22,8 @@
 
 💻😊 دليل إعداد المنشأة للمستخدم
 للاطّلاع على خطوات تهيئة النظام ونشره في المنشأة، يُرجى اتباع الدليل أدناه.
-[الدليل المستخدم باللغة العربية](https://drive.google.com/file/d/1SPDYwM1kJZUVJjKYME2QF2nd4d8nJLgm/view?usp=sharing)
+
+[دليل المستخدم باللغة العربية](https://drive.google.com/file/d/1SPDYwM1kJZUVJjKYME2QF2nd4d8nJLgm/view?usp=sharing)
 
 ---
 ## 📋 ١. المتطلبات الأساسية
