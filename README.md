@@ -20,6 +20,16 @@ To watch a video that walks through installing Bahmni (Arabic version) using Doc
 
 ---
 
+## 💻😊 User Guide
+
+To learn more about the steps of system configuration and deployment at a facility. Follow one of the bilingual guides below. 
+
+[English User Guide](https://drive.google.com/file/d/1raZ1SlHzV_emJDp_kc0ZMTaxsVR2JTbe/view?usp=sharing)
+
+[دليل المستخدم باللغة العربية](https://drive.google.com/file/d/1raZ1SlHzV_emJDp_kc0ZMTaxsVR2JTbe/view?usp=sharing)
+
+---
+
 ## 📋 1. Prerequisites
 
 Ensure the following are available on the server.
